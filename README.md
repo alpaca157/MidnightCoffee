@@ -4,22 +4,15 @@ Projeto para a disciplina TEC IV de Jogos Digitais. O jogo é uma experiência d
 
 # Premissa do jogo
 
-O jogo é uma experiência de terror psicológico em primeira pessoa, com uma estética realista e cinematográfica inspirada em jogos como *Fears to Fathom*, mas buscando maior qualidade visual e uma atmosfera mais imersiva.
+O jogo é uma experiência de terror psicológico em primeira pessoa, com uma estética realista e cinematográfica inspirada em jogos que contam uma experiência curta de algo sombrio ou sobrenatural, como exemplo, a franquia de Fears to Fathom, mas buscando maior qualidade visual de jogos estilos anime dos anos 2010 de ps3 e nintendo.
 
-A história acompanha a protagonista, que viaja de carro até a cafeteria de sua tia, onde também mora seu primo. Ao chegar, ela percebe que seu primo está cuidando sozinho de todos os clientes e pedidos, enquanto sua tia está, segundo ele, "muito ocupada no porão de novo". Como o dia está movimentado, a protagonista decide ajudá-lo no trabalho.
+A história começa com a protagonista Rita, que viaja de carro até a cafeteria de sua tia Amélia, onde também mora seu primo Marcos. Ao chegar, ela percebe que seu primo está cuidando sozinho de todos os clientes e pedidos, enquanto sua tia está, segundo ele, "muito ocupada no porão de novo". Como o dia está movimentado, Marcos pede ajuda a Rita para preparar as bebidas e servir mesas na cafeteria.
+Nesse ponto o jogo é somente um jogo relaxante de gerenciar uma cafeteria.
 
-Ao anoitecer, a cafeteria fecha e os dois seguem para a casa localizada nos fundos do estabelecimento. Como está tarde demais para dirigir, o primo oferece o quarto de hóspedes para que ela passe a noite. Depois de tomar banho e trocar de roupa, ela desce para jantar e percebe que sua tia continua desaparecida. Ao perguntar novamente sobre ela, o primo dá respostas vagas e insiste que ela não deve ir até o porão.
+Ao anoitecer, a cafeteria fecha e os dois seguem para a casa localizada nos fundos do estabelecimento. Como está tarde demais para dirigir, Marcos oferece o quarto de hóspedes para que ela passe a noite. Ainda incomodada com a situação, a protagonista decide investigar por conta própria. Ao chegar à porta do porão Rita chama pela tia, ela escuta apenas ruídos estranhos vindos do outro lado. Antes que consiga entrar, seu primo aparece e novamente a impede de descer, dando uma desculpa aparentemente inocente, Rita sobe para tomar banho. Depois de tomar banho e trocar de roupa, ela desce para jantar, mas seu primo precisa sair para comprar algumas coisas para o jantar, deixando-a sozinha em casa.
 
-Durante a madrugada, incomodada com a situação, a protagonista decide investigar por conta própria. Ao chegar à porta do porão e chamar pela tia, ela escuta apenas ruídos estranhos vindos do outro lado. Antes que consiga entrar, seu primo aparece e novamente a impede de descer, dando uma desculpa aparentemente inocente.
+É então que ela decide entrar no porão.
 
-No dia seguinte, a rotina volta ao normal. A protagonista passa o dia ajudando na cafeteria e, aparentemente, nada de estranho acontece. Porém, naquela noite, seu primo precisa sair para comprar algumas coisas para o jantar, deixando-a sozinha na casa.
+Descendo as escadas um clima de suspense começa e ao descer completamente, a protagonista não encontra sua tia, ao invés disso ela vê um estranho portal que parece levar a um lugar desconhecido. Ao chamar pela tia, ela ouve sua voz vindo do outro lado. Sem saber exatamente o que está acontecendo, decide atravessar o portal em busca dela.
 
-É então que ela finalmente decide entrar no porão.
-
-Lá, a protagonista encontra algo completamente diferente do que esperava: um estranho portal que parece conectar aquele lugar a uma realidade desconhecida. Ao chamar pela tia, ela ouve sua voz vindo do outro lado. Sem saber exatamente o que está acontecendo, decide atravessar o portal em busca dela.
-
-Do outro lado, encontra um mundo destruído e desconhecido, repleto de ambientes abandonados, sons inexplicáveis, vozes distantes e vultos que parecem observar seus movimentos. Seguindo a voz da tia, a protagonista chega até uma sala onde ela está realizando uma espécie de ritual.
-
-A tia então revela que existe algo muito maior acontecendo e que, para conseguir concluir o ritual e retornar, precisa da ajuda da protagonista. Ela entrega a ela um objeto misterioso e explica que será necessário explorar aquele mundo, ativar determinados pontos espalhados pelo mapa e recuperar objetos "amaldiçoados" necessários para completar o ritual.
-
-A partir desse momento, o jogo deixa de ser apenas uma investigação sobre o desaparecimento da tia e se transforma em uma jornada de exploração e sobrevivência em uma realidade desconhecida, onde a protagonista precisará descobrir o que realmente é aquele lugar, o que sua tia está tentando fazer e, principalmente, por que ela escondeu tudo isso de sua família.
+Ao entrar no portal o clima do jogo muda completamente para algo sombrio.
